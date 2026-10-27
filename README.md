@@ -1,5 +1,11 @@
 # Proyecto 5 - noSQL
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+> **English summary:** Movies REST API with Node.js, Express and MongoDB (Mongoose): full CRUD, search by id, title, genre and year, seed data and clear 400/404 errors. Postman screenshots in `capturas-postman/`. Project for the Master's in Data & Analytics.
+
 API de películas con Express y MongoDB (mongoose). Es la continuación del
 proyecto de ejemplo "Movies" de la lección, al que le he añadido el CRUD
 completo (crear, modificar y borrar) y he movido las rutas a su propio
@@ -47,3 +53,11 @@ mongo) o intentas crear una película sin los campos obligatorios
 (`title`, `director`, `genre`), la API no se cae: devuelve un código de
 error (400 o 404, según el caso) con un mensaje explicando qué ha pasado,
 en vez de un 500 en blanco.
+
+## Capturas
+
+Las pruebas con Postman están en [`capturas-postman/`](capturas-postman/).
+
+## Autor
+
+**Nelson Gómez Sánchez** · Estudiante de DAM y del Máster en Data & Analytics · [nelsongomezsa.github.io](https://nelsongomezsa.github.io)
