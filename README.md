@@ -60,4 +60,4 @@ Las pruebas con Postman están en [`capturas-postman/`](capturas-postman/).
 
 ## Autor
 
-**Nelson Gómez Sánchez** · Estudiante de DAM y del Máster en Data & Analytics · [nelsongomezsa.github.io](https://nelsongomezsa.github.io)
+**Nelson Gómez Sánchez** · Desarrollo de software y datos · Java, SQL y Python · Buscando prácticas en IT en Madrid desde febrero de 2027 · [nelsongomezsa.github.io](https://nelsongomezsa.github.io)
